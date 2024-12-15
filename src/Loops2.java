@@ -29,7 +29,7 @@ public class Loops2 {
         int dan = sc.nextInt();   // 사용자의 정수 입력부분
         int i = 1;
         while ( i < 10 ) {
-            // System.out.println(dan + " x " + i + " = " + dan+i);
+//            System.out.println(dan + " x " + i + " = " + dan+i);
             System.out.printf("%d x %d = %d\n", dan, i, dan*i);
             i += 1;
         }
